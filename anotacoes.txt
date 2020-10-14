@@ -1,0 +1,15 @@
+
+// ROTA = conjunto
+// RECURSO = usuário
+
+// Métodos e parâmetros
+// GET, POST, PUT e DELETE
+
+// query params = filtro na aplicação $
+// route params = users/1 identificar um recurso (tipo id)
+// dados de form, ou objetos
+
+// 3 formas de banco de dados = driver, query builder ou ORM (nem discussão)
+
+//método up = mete as coisa
+//méetodo down = desfaz as coisa
