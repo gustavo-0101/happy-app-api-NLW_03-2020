@@ -13,3 +13,13 @@
 
 //método up = mete as coisa
 //méetodo down = desfaz as coisa
+
+
+{
+	"name": "The Umbrella Academy",
+	"latitude": "-29.3715952",
+	"longitude": "-50.8021635",
+	"about": "Sobre o orfanato",
+	"instructions": "Venha visitar-nos",
+	"open_on_weekends":"true",
+	"opening_hours": "Das 8h até as 20h"
